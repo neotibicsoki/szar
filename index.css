@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #87CEFA;
+    color: #00008B;
+}
+
+.sorki {
+    text-align: justify;
+}
+
+.jobbra {
+    text-align: right;
+}

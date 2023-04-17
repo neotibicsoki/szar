@@ -1,0 +1,21 @@
+body {
+    background-color: #87CEFA;
+    color: #00008B;
+}
+
+.sorki {
+    text-align: justify;
+}
+
+.jobbra {
+    text-align: right;
+}
+
+.kozep {
+    text-align: center;
+}
+
+#tábla {
+    width: 90%;
+    margin: auto;
+}
